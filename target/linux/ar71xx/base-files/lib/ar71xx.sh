@@ -1515,6 +1515,9 @@ ar71xx_board_detect() {
 	*"XD3200")
 		name="xd3200"
 		;;
+	*"XD6700")
+		name="xd6700"
+		;;
 	*"Z1")
 		name="z1"
 		;;
